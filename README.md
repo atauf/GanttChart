@@ -1,7 +1,7 @@
 This is a custom function to be used in Google Sheets.  It will automatically fill in the colors of your Gantt Chart when your spreadsheet is set up with the following columns...START DATE, END DATE, STATUS, BLOCK DATE.
 
 
-EXAMPLE Format of Spreadsheet:
+__**EXAMPLE Format of Spreadsheet:**__
 
 | Task | Start Date | End Date | Status | 01Jan17 | 01Feb17 | 01Mar17 | ... |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -9,11 +9,11 @@ EXAMPLE Format of Spreadsheet:
 | --- | --- | --- | --- | \* | \* | \* | \* |
 | --- | --- | --- | --- | \* | \* | \* | \* |
 
-Notes:
+__**Notes:**__
 - Custom formula will go in each of the cells with a *
 - 01Jan17, 01Feb17, 01Mar17, ect. are **Block Dates**
 
-Additional Requirements:
+__**Additional Requirements:**__
 - **STATUS** blocks must be one of the following (case sensitive):
     1) Completed
     2) In Progress
