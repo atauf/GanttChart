@@ -2,19 +2,13 @@ This is a custom function to be used in Google Sheets.  It will automatically fi
 
 
 EXAMPLE Format of Spreadsheet:
-														     (Block Dates)
-															 
-													01Jan17		01Feb17		01Mar17
-													
-Task		Start		DateEnd		DateStatus
 
-														*			*			*
-													   
-														*			*			*
-													   
-														*			*			*
-													   
-														*			*			*
+| Task | Start | DateEnd | DateStatus | 01Jan17 | 01Feb17 | 01Mar17 | ... |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | --- | --- | --- | \* | \* | \* | \* |
+| --- | --- | --- | --- | \* | \* | \* | \* |
+| --- | --- | --- | --- | \* | \* | \* | \* |
 
-
-Note: Custom formula will go in each of the cells with a *
+Notes:
+- Custom formula will go in each of the cells with a *
+- 01Jan17, 01Feb17, 01Mar17, ect. are ***Block Dates***
