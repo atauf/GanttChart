@@ -1,4 +1,4 @@
-This is a custom function to be used in Google Sheets.  It will automatically fill in the colors of your Gantt Chart given when your spreadsheet is set up with the following columns...START DATE, END DATE, STATUS, BLOCK DATE.
+This is a custom function to be used in Google Sheets.  It will automatically fill in the colors of your Gantt Chart when your spreadsheet is set up with the following columns...START DATE, END DATE, STATUS, BLOCK DATE.
 
 
 EXAMPLE Format of Spreadsheet:
