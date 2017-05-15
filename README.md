@@ -10,7 +10,7 @@ This is a custom function to be used in Google Sheets.  It will automatically fi
 | --- | --- | --- | --- | \* | \* | \* | \* |
 
 ## Notes:
-- Custom formula will go in each of the cells with a *
+- Custom formula will go in each of the cells with a **" * "** (if putting in Cell **E2** it will look something like this... **=cellGanttBetter($B2,$C2,$D2,E$1)**, and then you can just drag copy the cell to the rest of the block cells)
 - 01Jan17, 01Feb17, 01Mar17, ect. are **Block Dates**
 
 ## Additional Requirements:
